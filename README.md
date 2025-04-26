@@ -34,7 +34,7 @@ Este é o arquivo que define as seguintes configurações do código:
 > [!IMPORTANTE]
 > Alterar essas configurações será necessário compilar novamente o programa, pois **o arquivo é lido em tempo de compilação apenas**.
 
-### [Forest.cpp]
+### [Forest.cpp](src/Forest.cpp)
 
 Esta é a classe principal do programa, aqui é feita a leitura e escrita nos arquivos, montado a floresta e implementado a propagação do fogo e onde as funções de movimentação do animal são chamadas.
 
