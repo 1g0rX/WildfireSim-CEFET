@@ -3,7 +3,13 @@
   <img src=".assets/Lobo Entre Chamas na Floresta.png" width="500"/>
 </p>
 
+## Autor
+
+Desenvolvido por Igor.
+
+--- 
 ## Introdução
+
 
 Esse trabalho visa relembrar um pouco de tudo estudado até o momento e tem como objetivo simular um incêndio em uma floresta que e como um animal reagiria neste incêndio.
 
@@ -18,7 +24,7 @@ O programa funciona resumidamente da seguinte forma:
 
 <details> <summary> Clique para mostrar um fluxograma com o funcionamento geral do programa </summary>
 
-[![](https://mermaid.ink/img/pako:eNptVt1u4kYUfpWRK8SuNBsBJiRYVSrzl7CBQAL5w0TVxB7DNGYGjU02CeG2Um_7BquqWrXSXvaml8ub7JP0eMYGJ6m5gDPznXO-c-bzGZaGKzxqWEYut2ScRRZa5qMpndG8hfK3JKR5jPTCBZGM3AY0hJ0lys8lmxH5WBeBkDH2B9_34Inh1JvQDrmlQY24dxMpFtzLWzEgfvKr1SqXG3M_EJ_cKZERGjbGHMGTy6E2MGAkYE8kYoLrZfud0-brry4TN-_Rhw8HqOZ0qESMzxfRjkeiGw2rqb06YJmrQ0g0I5FkT-jkoZuA6grUcPoiBJTggPHFRCA6Q1f4OgE1FKiZBREOxQaIC1T89i8qJMCmAraW7YhKsv6y_kOgH1HXvvq5PWye2fVec_DTasw3xXUJ46gjxFyvtGLv5wGbPaNDpwWdRp5Atkp0k0WcQNxnNHrntNgMeQSBxyLQ6W7eZ8JrV9SfQii9eKj4HS2THSiyHBOKt462ydtOXfB7KqEIVP7-6--F8ZhfsCfGpyIEswhmm7sSFMAjaMX682RBEoJtleCjM4L6JXIFADwh0ZxI-L7JZtJFHGeoFFIqx1sqnU0r_6FhEgZ9_-1PZKbgzhbcdVpCrr_ExyzuWcwuTdnJpDxxsuRfMDvOwHqOfQ-iiY_a-4W4gKZhAuuqInvaOFFGXxs9bTh9yYRkHvFoaKHyQeGgeGDGXZtwEfellATqK_jpspvSRffrzwHzRFrc6ba4MwdQNBXeqyOYkzAUKb3TTBUDp0t4fI5zkK5WiAadqdRDbQxSYyOdFpM0K5yhQpxvVNmCdySJdK62Lpw-dBK5BPTorv8KQJCoZAHNLpEuMATdIDPxuFAel__jUYw9BhTda7WhEoLfqjG9YxUi7tyGZIOSaIrqU-re6bVLFfgqo6kSEoutVq627bx2St_-RjBuuAsF0TeKuVahbHtpMw4E34Sy7W0su-YkGWdCbiIkCH0Odj3LYLu2qWVI5YxxNeSyFdl6PtmN5VBA2_VoeogYEN0waWyZjF4sJWmaLwTPNqMp5ZkMrQyZ3iKCUarNkSbQcg7VKy3UVjxl4aSaYUSi9dcwYi4JkQ_8WSpCu6X9DtWUejGWBtFjwPhE224A0m1QH7xBcT4LAguuBRceHEZS3NHYLMDzCp7MX-0Qw31_4xDDff-VwycSvwYpPk6RwVerbxJ41CeLIEopVePPxsM0zbQg5YBsXMN13MBN3MIjbB-m7lnMIT7CbfwRH-MO7uIT3MN9fIrP8CB9pzPYc3yBLzHcQNi2sV1T3cnut3U9BjYmMGcMK5ILio0ZiIjEprGMwWNDXdNjw4KfHpF3Y2PMV-AzJ3wkxCx1g_t4MjUsnwQhWIs5HC5tMDKRZAuh3KOyDhd3ZFjF4q6KYVhL4wHMSnVnt2KaJbO6V64UquY-Nh4Na7e0Uynu7e7vF8pmqVjar66w8aSyFneKpb290l6lWq3slsvliokN6rFIyK7-56H-gKz-A8NJtz8?type=png)](https://mermaid.live/edit#pako:eNptVt1u4kYUfpWRK8SuNBsBJiRYVSrzl7CBQAL5w0TVxB7DNGYGjU02CeG2Um_7BquqWrXSXvaml8ub7JP0eMYGJ6m5gDPznXO-c-bzGZaGKzxqWEYut2ScRRZa5qMpndG8hfK3JKR5jPTCBZGM3AY0hJ0lys8lmxH5WBeBkDH2B9_34Inh1JvQDrmlQY24dxMpFtzLWzEgfvKr1SqXG3M_EJ_cKZERGjbGHMGTy6E2MGAkYE8kYoLrZfud0-brry4TN-_Rhw8HqOZ0qESMzxfRjkeiGw2rqb06YJmrQ0g0I5FkT-jkoZuA6grUcPoiBJTggPHFRCA6Q1f4OgE1FKiZBREOxQaIC1T89i8qJMCmAraW7YhKsv6y_kOgH1HXvvq5PWye2fVec_DTasw3xXUJ46gjxFyvtGLv5wGbPaNDpwWdRp5Atkp0k0WcQNxnNHrntNgMeQSBxyLQ6W7eZ8JrV9SfQii9eKj4HS2THSiyHBOKt462ydtOXfB7KqEIVP7-6--F8ZhfsCfGpyIEswhmm7sSFMAjaMX682RBEoJtleCjM4L6JXIFADwh0ZxI-L7JZtJFHGeoFFIqx1sqnU0r_6FhEgZ9_-1PZKbgzhbcdVpCrr_ExyzuWcwuTdnJpDxxsuRfMDvOwHqOfQ-iiY_a-4W4gKZhAuuqInvaOFFGXxs9bTh9yYRkHvFoaKHyQeGgeGDGXZtwEfellATqK_jpspvSRffrzwHzRFrc6ba4MwdQNBXeqyOYkzAUKb3TTBUDp0t4fI5zkK5WiAadqdRDbQxSYyOdFpM0K5yhQpxvVNmCdySJdK62Lpw-dBK5BPTorv8KQJCoZAHNLpEuMATdIDPxuFAel__jUYw9BhTda7WhEoLfqjG9YxUi7tyGZIOSaIrqU-re6bVLFfgqo6kSEoutVq627bx2St_-RjBuuAsF0TeKuVahbHtpMw4E34Sy7W0su-YkGWdCbiIkCH0Odj3LYLu2qWVI5YxxNeSyFdl6PtmN5VBA2_VoeogYEN0waWyZjF4sJWmaLwTPNqMp5ZkMrQyZ3iKCUarNkSbQcg7VKy3UVjxl4aSaYUSi9dcwYi4JkQ_8WSpCu6X9DtWUejGWBtFjwPhE224A0m1QH7xBcT4LAguuBRceHEZS3NHYLMDzCp7MX-0Qw31_4xDDff-VwycSvwYpPk6RwVerbxJ41CeLIEopVePPxsM0zbQg5YBsXMN13MBN3MIjbB-m7lnMIT7CbfwRH-MO7uIT3MN9fIrP8CB9pzPYc3yBLzHcQNi2sV1T3cnut3U9BjYmMGcMK5ILio0ZiIjEprGMwWNDXdNjw4KfHpF3Y2PMV-AzJ3wkxCx1g_t4MjUsnwQhWIs5HC5tMDKRZAuh3KOyDhd3ZFjF4q6KYVhL4wHMSnVnt2KaJbO6V64UquY-Nh4Na7e0Uynu7e7vF8pmqVjar66w8aSyFneKpb290l6lWq3slsvliokN6rFIyK7-56H-gKz-A8NJtz8)
+[![](https://www.mermaidchart.com/raw/00f4be7d-aa73-4235-8c2f-db17582f7f5c?theme=light&version=v0.1&format=svg)
 
 </details>
 
@@ -82,8 +88,217 @@ Esta é a classe principal do programa, aqui é feita a leitura e escrita nos ar
 ```
 
 ## Estudo de casos/ resultados
+> [!NOTE]
+> `A` Representa o animal  
+> `0` Representa lugar vazio  
+> `1` Representa árvore saudável  
+> `2` Representa árvore em chamas  
+> `3` Representa árvore queimada  
+> `4` Representa água  
 
-### Caso 1: 
+### Caso 1: Sem vento
+<details> <summary> Clique para mostrar </summary>
+
+- Matriz inicial
+
+```
+
+5 5 2 3
+1 1 1 0 4
+1 1 1 1 1
+1 1 1 1 4
+0 0 1 1 1
+1 4 1 0 4
+
+Iteracao 0:
+1 1 1 A 4 
+1 1 2 1 1 
+1 1 1 1 4 
+0 0 1 1 1 
+1 4 1 0 4 
+
+Iteracao 1:
+1 1 2 A 4 
+1 2 3 2 1 
+1 1 2 1 4 
+0 0 1 1 1 
+1 4 1 0 4 
+
+Iteracao 2:
+1 2 3 A 4 
+2 3 3 3 2 
+1 2 3 2 4 
+0 0 2 1 1 
+1 4 1 0 4 
+
+Iteracao 3:
+2 3 3 A 4 
+3 3 3 3 3 
+2 3 3 3 4 
+0 0 3 2 1 
+1 4 2 0 4 
+
+Iteracao 4:
+3 3 3 0 A 
+3 3 3 3 3 
+3 3 3 3 4 
+0 0 3 3 2 
+1 4 3 0 4 
+
+Iteracao 5:
+3 3 3 1 A 
+3 3 3 3 1 
+3 3 3 3 4 
+0 0 3 3 3 
+1 4 3 0 4 
+
+Resultado final:
+Passos do animal: 1
+Vezes que encontrou agua: 1
+Animal sobreviveu
+```
+
+Podemos notar que o incêndio começa na linha 2 e coluna 3, em uma árvore saudável, a cada iteração, o fogo se espalha para os 4 lados, o animal, por nascer no 0, pode ficar lá por três iterações e ao fazer seu movimento, ele dá preferência para o `4` que é água, ao chegar lá, as ávores adjascentes viram `1` (árvores saudáveis) e o animal sobrevive porque não há mais árvores em chamas para propagar o fogo
+
+</details>
+
+
+### Caso 2: matriz 10x10 sem água
+
+<details> 
+<summary> Clique para mostrar o caso 2 </summary>
+
+Usaremos a mesma matriz anterior, mas com o vento para o sul ativado.
+
+```
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 2 1 1 1 1 1 
+1 1 1 1 0 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1
+
+Iteracao 0:
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 2 1 1 1 1 1 
+1 1 1 1 A 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+
+Iteracao 1:
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 2 1 1 1 1 1 
+1 1 1 2 3 2 1 1 1 1 
+1 1 1 1 A 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+
+Iteracao 2:
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 2 1 1 1 1 1 
+1 1 1 2 3 2 1 1 1 1 
+1 1 2 3 3 3 2 1 1 1 
+1 1 1 2 A 2 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+
+Iteracao 3:
+1 1 1 1 2 1 1 1 1 1 
+1 1 1 2 3 2 1 1 1 1 
+1 1 2 3 3 3 2 1 1 1 
+1 2 3 3 3 3 3 2 1 1 
+1 1 2 3 A 3 2 1 1 1 
+1 1 1 2 1 2 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+
+Iteracao 4:
+1 1 1 2 3 2 1 1 1 1 
+1 1 2 3 3 3 2 1 1 1 
+1 2 3 3 3 3 3 2 1 1 
+2 3 3 3 3 3 3 3 2 1 
+1 2 3 3 0 3 3 2 1 1 
+1 1 2 3 2 3 2 1 1 1 
+1 1 1 2 A 2 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+
+Iteracao 5:
+1 1 2 3 3 3 2 1 1 1 
+1 2 3 3 3 3 3 2 1 1 
+2 3 3 3 3 3 3 3 2 1 
+3 3 3 3 3 3 3 3 3 2 
+2 3 3 3 0 3 3 3 2 1 
+1 2 3 3 3 3 3 2 1 1 
+1 1 2 3 2 3 2 1 1 1 
+1 1 1 2 A 2 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+
+Iteracao 6:
+1 2 3 3 3 3 3 2 1 1 
+2 3 3 3 3 3 3 3 2 1 
+3 3 3 3 3 3 3 3 3 2 
+3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 0 3 3 3 3 2 
+2 3 3 3 3 3 3 3 2 1 
+1 2 3 3 3 3 3 2 1 1 
+1 1 2 3 2 3 2 1 1 1 
+1 1 1 2 A 2 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+
+Iteracao 7:
+2 3 3 3 3 3 3 3 2 1 
+3 3 3 3 3 3 3 3 3 2 
+3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 3 3 3 3 3 3 
+3 3 3 3 0 3 3 3 3 3 
+3 3 3 3 3 3 3 3 3 2 
+2 3 3 3 3 3 3 3 2 1 
+1 2 3 3 3 3 3 2 1 1 
+1 1 2 3 2 3 2 1 1 1 
+1 1 1 2 A 2 1 1 1 1 
+
+Resultado final:
+Passos do animal: 6
+Vezes que encontrou agua: 0
+Animal morreu na iteracao 8
+
+```
+Aqui podemos ver que o animal nasceu no único 0 disponível e ficou lá por 3 iterações que é o limite definido, então ele foi saindo e andando para baixo, até que ele ficou cercado pelo fogo e acabou morrendo.
+
+</details>
+
+
+--- 
+
+## Conclusão
+
+Este projeto foi desenvolvido para demonstrar o comportamento de um incêndio florestal e como um animal tenta escapar de uma situação de perigo. A simulação é simples, mas permite ajustes nos parâmetros e oferece uma boa base para expandir o modelo com mais complexidade (por exemplo, mais tipos de animais, diferentes tipos de fogo, etc.).
+
+Para Melhorias futuras, seriam as correções de bugs existentes, um melhor método de busca como o bfs e algumas otimizações do código, como diminuição dos for.
+
+--- 
+
 
 ## Método de uso
 
